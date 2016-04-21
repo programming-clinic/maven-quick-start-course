@@ -1,4 +1,4 @@
-package training.maven.quick;
+package clinic.programming.training;
 
 import org.junit.Before;
 import org.junit.Ignore;
