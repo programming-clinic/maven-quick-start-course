@@ -12,6 +12,8 @@ fi
 # Java Home
 export JAVA_HOME=`/usr/libexec/java_home`
 
-# Add Maven to Path
+# Maven Home
 MAVEN_HOME=/Development/maven
+
+# Put Stuff on Path
 export PATH="${PATH}:${MAVEN_HOME}/bin"
